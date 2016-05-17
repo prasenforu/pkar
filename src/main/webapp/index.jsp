@@ -7,5 +7,6 @@
 <%out.print( "Server IP Address :: " + request.getLocalAddr() ); %><br>
 <%out.print( "Server Host Name :: "+ request.getLocalName() );%><br>
 <%out.print( "Server OS :: "+ System.getProperty("os.name") );%><br>
+<%out.print( "Server OS :: "+ System.getProperty("date") );%><br>
 </body>
 </html>
