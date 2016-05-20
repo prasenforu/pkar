@@ -2,7 +2,7 @@
 <body>
 <h2>Hello Prasenjit.....!</h2>
 
-<h2>Welcome in DevOps ...!</h2>
+<h2>Welcome in DevOps ...</h2>
 
 <h3> Server Details </h3><br>
 <%out.print( "Server IP Address :: " + request.getLocalAddr() ); %><br>
