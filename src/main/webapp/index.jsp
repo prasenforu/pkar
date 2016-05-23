@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello Prasenjit.....!</h2>
+<h2>Hello Prasenjit</h2>
 
 <h2>Welcome in DevOps ...</h2>
 
