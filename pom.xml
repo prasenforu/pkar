@@ -15,15 +15,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <pluginManagement>
-    <plugins>
-        <plugin>
-	      <groupId>org.jboss.as.plugins</groupId>
-	            <artifactId>jboss-as-maven-plugin</artifactId>
-		          <version>7.4.Final</version>
-			      </plugin>
-			        <plugins>
-				</pluginManagement>
   <build>
     <finalName>SampleWebApplication</finalName>
   </build>
