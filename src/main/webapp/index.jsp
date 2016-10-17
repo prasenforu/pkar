@@ -7,6 +7,6 @@
 <%out.print( "Server OS Name:: "+ System.getProperty("os.name") );%><br>
 <%out.print( "Server OS Version:: "+ System.getProperty("os.version") );%><br>
 <%out.print( "Server OS Architecture :: "+ System.getProperty("os.arch") );%><br>
-<%out.print( "OS Release :: "+ Runtime.getRuntime().exec("uname") );%><br>
+<%out.print( "Today's Date :: "+ Runtime.getRuntime().exec("uname") );%><br>
 </body>
 </html>
